@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class EmployeeData {
-    private int eId;
+    private int eid;
     private String name;
     private int salary;
 }
